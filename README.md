@@ -77,17 +77,6 @@
 
 <div align="center">
 
-## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4e1/512.gif" alt="📡" width="28" height="28"></picture> Сетевая активность
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExITPerson&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</div>
-
----
-
-<div align="center">
-
 ## <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f510/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f510/512.gif" alt="🔐" width="28" height="28"></picture> Установить соединение
 
 </div>
